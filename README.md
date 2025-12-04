@@ -5,6 +5,7 @@ DATE:
 
 
 ## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
+![WhatsApp Image 2025-12-04 at 11 29 13 AM](https://github.com/user-attachments/assets/1cb0fb06-e6ed-4f41-9e97-abcc73f4d962)
 
 
 
@@ -71,4 +72,5 @@ DATE:
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
----
+![WhatsApp Image 2025-12-04 at 11 29 00 AM](https://github.com/user-attachments/assets/0f56f3af-5ed3-4cd5-b0fb-7d0bdcb8dc3c)
+
