@@ -1,13 +1,7 @@
 **EX.NO:** 2 SIMULATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS USING LT SPICE
 DATE: 
-
-**  
-
-
 ## AIM  : To simulate the performance of  INVERTING, NON INVERTING , DIFFERENTIAL AND INSTRUMENTATION AMPLIFIERS  circuits using LT- SPICE                
 ![WhatsApp Image 2025-12-04 at 11 29 13 AM](https://github.com/user-attachments/assets/1cb0fb06-e6ed-4f41-9e97-abcc73f4d962)
-
-
 
 ## PROCEDURE:
 
@@ -25,12 +19,7 @@ DATE:
 
 <img width="979" height="314" alt="image" src="https://github.com/user-attachments/assets/ec22c126-a622-46d9-966e-b6b87147026c" />
 
-
-
----
-
-
----
+-
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 ![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
